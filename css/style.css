@@ -29,12 +29,12 @@ visibility:visible;
 .nav .logo{
     display:flex;
     justify-content: flex-start;
-
 }
 
 .nav .logo h2{
     margin-top:5px;
     color:#2B51C7;
+    cursor: pointer;
 }
 
 .nav .options{
